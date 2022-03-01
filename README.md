@@ -10,6 +10,3 @@
 
 ![Python](https://img.shields.io/badge/-PYTHON-1C0932?style=for-the-badge&logo=Python&logoColor=74F33E)
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Timoshka996&layout=compact)](https://github.com/Timoshka996/github-readme-stats)
