@@ -8,5 +8,3 @@
 ![Postgres](https://img.shields.io/badge/postgres-1C0932.svg?style=for-the-badge&logo=postgresql&logoColor=74F33E)
 
 <img src="https://user-images.githubusercontent.com/89924712/150038917-4d5de353-0ae0-41a5-962d-fabd8b929012.gif">
-
-<img src="https://d1y8sb8igg2f8e.cloudfront.net/images/shutterstock_1375463840.2e16d0ba.fill-1200x630.jpg">
