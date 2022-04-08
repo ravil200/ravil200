@@ -7,6 +7,6 @@
 ![sql](https://img.shields.io/badge/-sql-1C0932?style=for-the-badge&logo=mysql&logoColor=74F33E)
 ![Postgres](https://img.shields.io/badge/postgres-1C0932.svg?style=for-the-badge&logo=postgresql&logoColor=74F33E)
 
-<img src="https://user-images.githubusercontent.com/89924712/150038917-4d5de353-0ae0-41a5-962d-fabd8b929012.gif" width="400" height="300" />                <img src="https://avatars.githubusercontent.com/u/88329168?v=4" width="300" height="300" />
-
+<img src="https://user-images.githubusercontent.com/89924712/150038917-4d5de353-0ae0-41a5-962d-fabd8b929012.gif" width="400" height="300" />               
+<img src="https://avatars.githubusercontent.com/u/88329168?v=4" width="300" height="300" />                                                             <img scr="https://avatars.githubusercontent.com/u/99483349?v=4"width="300" height="300" />
 
