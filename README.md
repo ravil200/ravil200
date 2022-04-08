@@ -1,6 +1,6 @@
 ### Language and Tools
 
-![Django](https://img.shields.io/badge/-DJANGO-1C0932?style=for-the-badge&logo=django&logoColor=74F33E)
+![Django](https://img.shields.io/badge/-DJANGO-1C0932?style=for-the-badge&logo=django&logoColor=e00000)
 ![Python](https://img.shields.io/badge/-PYTHON-1C0932?style=for-the-badge&logo=Python&logoColor=74F33E)
 
 ![Heroku](https://img.shields.io/badge/-Heroku-1C0932?style=for-the-badge&logo=heroku&logoColor=74F33E)
