@@ -1,6 +1,6 @@
 ### Language and Tools
 
-![Django](https://img.shields.io/badge/-DJANGO-140000?style=for-the-badge&logo=django&logoColor=696969)
+![Django](https://img.shields.io/badge/-DJANGO-ffffff?style=for-the-badge&logo=django&logoColor=696969)
 ![Python](https://img.shields.io/badge/-PYTHON-140000?style=for-the-badge&logo=Python&logoColor=696969)
 ![POstman](https://img.shields.io/badge/-Postman-140000?style=for-the-badge&logo=POstman&logoColor=696969)
 
